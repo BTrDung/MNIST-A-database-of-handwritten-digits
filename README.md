@@ -26,7 +26,7 @@ git clone : https://github.com/BTrDung/MNIST
 Open folder ```.vscode -> tasks.json ```. Copy your Python.exe location (where you installed Python) and paste to Line 12.
 
 Example: My Python location is ```C:\Users\ABC\AppData\Local\Programs\Python\Python38\python.exe```. Copy link location and paste into
-tasks.json with a little changes like this:
+```tasks.json``` with a little changes like this:
 ```json
 {
     // See https://go.microsoft.com/fwlink/?LinkId=733558
