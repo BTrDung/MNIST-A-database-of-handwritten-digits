@@ -66,3 +66,5 @@ pip install python-mnist
 ```
 pip install scikit-learn
 ```
+
+Press F5 and choose Python to look what it can do. 
