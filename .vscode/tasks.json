@@ -7,9 +7,7 @@
             "label": "RUN Python File",
             "type": "shell",
             "command": [
-            // Copy your link python.exe here.
-            // Example: "C:\\Users\\ABCDXYZ\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
-                "{____YOUR_LINK_____}"
+                "_______PASTE___HERE _______"
                 ,"-u",
                 "${file}"
             ],
