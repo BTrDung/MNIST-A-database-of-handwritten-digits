@@ -51,7 +51,7 @@ tasks.json with a little changes like this:
 }
 ```
 
-Do the same things with settings.json: 
+Do the same things with ```settings.json```: 
 ```
 {
     "python.pythonPath": "C:\\Users\\ABC\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
