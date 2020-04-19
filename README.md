@@ -12,7 +12,7 @@ This project used Python version 3.8.2 on VS Code.
 
 Use Visual Studio Code to run. 
 
-You can download Python and Visual Studio Code by following link: 
+You can download Python and Visual Studio Code by following links: 
 
 Python: https://www.python.org/downloads/
 
