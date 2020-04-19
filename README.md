@@ -8,15 +8,15 @@ Read more about MNIST on Wikipedia: https://en.wikipedia.org/wiki/MNIST_database
 
 Use Python 3. 
 
-Version used in this project is Python 3.8.2.
+This project used Python version 3.8.2 on VS Code.
 
 Use Visual Studio Code to run. 
 
 You can download Python and Visual Studio Code by following link: 
 
-Python: https://www.python.org/downloads/. (Remember your location where you installed)
+Python: https://www.python.org/downloads/
 
-VS Code: https://code.visualstudio.com/.
+VS Code: https://code.visualstudio.com/
 
 ## Installation
 
