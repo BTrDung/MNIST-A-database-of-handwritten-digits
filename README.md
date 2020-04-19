@@ -23,7 +23,8 @@ VS Code: https://code.visualstudio.com/
 ```bash
 git clone : https://github.com/BTrDung/MNIST
 ```
-Open folder ```.vscode -> tasks.json ```. Copy your Python.exe location (where you installed Python) and paste to Line 12.
+Open folder ```.vscode -> tasks.json ```. 
+Copy your Python.exe location (where you have installed Python) and paste to Line 12.
 
 Example: My Python location is ```C:\Users\ABC\AppData\Local\Programs\Python\Python38\python.exe```. Copy link location and paste into
 ```tasks.json``` with a little changes like this:
@@ -51,7 +52,7 @@ Example: My Python location is ```C:\Users\ABC\AppData\Local\Programs\Python\Pyt
 }
 ```
 
-Do the same things with ```settings.json```: 
+Do the same thing with ```settings.json```: 
 ```
 {
     "python.pythonPath": "C:\\Users\\ABC\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
@@ -67,4 +68,4 @@ pip install python-mnist
 pip install scikit-learn
 ```
 
-Press F5 and choose Python to look what it can do. 
+Press F5 and choose Python to see what it can do. 
