@@ -44,9 +44,3 @@ history = model.fit(train_images, train_labels, batch_size=32, validation_split=
 print("Training complete")
 
 model.save("TestModel. h5")
-
-#print("Test")
-# testing
-#print(model.metrics_names)
-#print(model.evaluate(train_images, train_labels, verbose=2))
-#print(model.evaluate(test_images, test_labels, verbose=2))
