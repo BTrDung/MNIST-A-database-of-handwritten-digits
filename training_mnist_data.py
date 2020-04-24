@@ -10,7 +10,9 @@ mnist = tf.keras.datasets.mnist
 (train_images, train_labels), (test_images, test_labels) = mnist.load_data()
 
 train_images = train_images / 225
+# [0, 1]
 test_images = test_images / 225
+# [0, 1]
 
 train_images = train_images.reshape(train_images.shape[0], 28, 28, 1)
 test_images = test_images.reshape(test_images.shape[0], 28, 28, 1)
