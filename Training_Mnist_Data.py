@@ -10,9 +10,7 @@ mnist = tf.keras.datasets.mnist
 (train_images, train_labels), (test_images, test_labels) = mnist.load_data()
 
 train_images = train_images / 225
-# [0, 1]
 test_images = test_images / 225
-# [0, 1]
 
 train_images = train_images.reshape(train_images.shape[0], 28, 28, 1)
 test_images = test_images.reshape(test_images.shape[0], 28, 28, 1)
@@ -43,4 +41,4 @@ model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=
 history = model.fit(train_images, train_labels, batch_size=32, validation_split=0.2, epochs=3, verbose=1)
 print("Training complete")
 
-model.save("TestModel. h5")
+model.save("MyModel.h5")
