@@ -5,7 +5,7 @@ MNIST is a database of handwritten digits available on http://yann.lecun.com/exd
 Read more about MNIST on Wikipedia: https://en.wikipedia.org/wiki/MNIST_database.
 
 ![GitHub ACWithDataTraining](https://img.shields.io/badge/accuracy-99.65%25-blue)
-![GitHub ACWithDataTraining](https://img.shields.io/badge/accuracy-98.71%25-blue)
+![GitHub ACWithDataTesting](https://img.shields.io/badge/accuracy-98.71%25-blue)
 
 ## Requirements
 
