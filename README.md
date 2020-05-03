@@ -24,7 +24,7 @@ Read more about MNIST on Wikipedia: https://en.wikipedia.org/wiki/MNIST_database
 
 Use Python 3. 
 
-This project used Python version 3.8.2 and Pycharm with Anaconda environment to run. 
+This project used Python version 3.7 and Pycharm with Anaconda environment to run. 
 
 You can download Python and Pycharm by following links: 
 
@@ -34,5 +34,9 @@ Pycharm: https://www.jetbrains.com/pycharm/
 
 ## Installation
 
-Download my [git](https://github.com/BTrDung/MNIST.git) as a ZIP file: https://github.com/BTrDung/MNIST.git
+Step 1: Download my [git](https://github.com/BTrDung/MNIST.git) as a ZIP file: https://github.com/BTrDung/MNIST.git
+
+Step 2: Create your project by Pycharm. 
+
+Step 3: Copy 
 
