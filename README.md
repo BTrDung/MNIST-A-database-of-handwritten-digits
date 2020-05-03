@@ -15,7 +15,7 @@ You can use direct links to download the dataset. The data is stored in the **sa
 
 The training set contains 60000 examples, and the test set 10000 examples.
 
-In this project, i will use a convolutional neural network for handwritten digit classification from scratch.
+In this project, i will use a convolutional neural network (CNN) for handwritten digit classification from scratch.
 
 Accuracy persent was tested on training set ![GitHub ACWithDataTraining](https://img.shields.io/badge/accuracy-99.65%25-blue)
 
