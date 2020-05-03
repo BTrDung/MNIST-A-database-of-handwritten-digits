@@ -40,5 +40,5 @@ Step 2: Create your project by Pycharm.
 
 Step 3: Copy all the files which contained in the ZIP file after extracted into your project local.
 
-Step 4: Open terminal and type ```pip install tensorflow```.
+Step 4: Open terminal, type ```pip install tensorflow``` and wait until it finishes downloading.
 
