@@ -1,6 +1,16 @@
 # MNIST
 
-MNIST is a database of handwritten digits available on http://yann.lecun.com/exdb/mnist/.
+## Introduction
+MNIST is a database of handwritten digits available on http://yann.lecun.com/exdb/mnist. The digits have been size-normalized and centered in a fixed-size image.
+
+There are 4 files:
+```bash
+train-images-idx3-ubyte: training set images
+train-labels-idx1-ubyte: training set labels
+t10k-images-idx3-ubyte:  test set images
+t10k-labels-idx1-ubyte:  test set labels
+```
+The training set contains 60000 examples, and the test set 10000 examples.
 
 Read more about MNIST on Wikipedia: https://en.wikipedia.org/wiki/MNIST_database.
 
