@@ -17,9 +17,11 @@ The training set contains 60000 examples, and the test set 10000 examples.
 
 In this project, i will use a convolutional neural network (CNN) for handwritten digit classification from scratch.
 
-Accuracy persent was tested on training set ![GitHub ACWithDataTraining](https://img.shields.io/badge/accuracy-99.65%25-blue)
+Accuracy persent was tested on training set 
+![GitHub ACWithDataTraining](https://img.shields.io/badge/accuracy-99.65%25-blue)
 
-Accuracy persent was tested on testing set ![GitHub ACWithDataTesting](https://img.shields.io/badge/accuracy-98.71%25-blue)
+Accuracy persent was tested on testing set 
+![GitHub ACWithDataTesting](https://img.shields.io/badge/accuracy-98.71%25-blue)
 
 Read more about MNIST on Wikipedia: https://en.wikipedia.org/wiki/MNIST_database.
 
@@ -27,7 +29,7 @@ Read more about MNIST on Wikipedia: https://en.wikipedia.org/wiki/MNIST_database
 
 Use Python 3. 
 
-This project used Python version 3.7 and Pycharm with Anaconda environment to run. 
+This project used Python version 3.7 and Pycharm with [Anaconda](https://www.anaconda.com/) environment to run. 
 
 You can download Python and Pycharm by following links: 
 
