@@ -45,6 +45,9 @@ Anaconda: https://docs.anaconda.com/anaconda/install/hashes/win-3-64/
 
 ## Instruction 
 
+<details><summary>Install Anaconda</summary><p>
+* [tmp](#tmp)
+</p></details><p></p>
 Step 2: Create your project by Pycharm with Conda environment. 
 
 Step 3: Copy all the files which contained in the ZIP file after extracted into your project local.
