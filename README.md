@@ -34,4 +34,5 @@ Pycharm: https://www.jetbrains.com/pycharm/
 
 ## Installation
 
-Clone/ download my git: 
+Download my [git](https://github.com/BTrDung/MNIST.git) as a ZIP file: https://github.com/BTrDung/MNIST.git
+
