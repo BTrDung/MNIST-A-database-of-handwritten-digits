@@ -8,10 +8,10 @@ You can use direct links to download the dataset. The data is stored in the **sa
 
 | Name  | Content | Examples | Size | Link |
 | --- | --- |--- | --- |--- |
-| `train-images-idx3-ubyte.gz`  | training set images  | 60,000|26 MBytes | [Download](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz)|
-| `train-labels-idx1-ubyte.gz`  | training set labels  |60,000|29 KBytes | [Download](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-labels-idx1-ubyte.gz)|
-| `t10k-images-idx3-ubyte.gz`  | test set images  | 10,000|4.3 MBytes | [Download](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-images-idx3-ubyte.gz)|
-| `t10k-labels-idx1-ubyte.gz`  | test set labels  | 10,000| 5.1 KBytes | [Download](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-labels-idx1-ubyte.gz)|
+| `train-images-idx3-ubyte.gz`  | training set images  | 60,000|9912422 bytes | [Download](http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz)|
+| `train-labels-idx1-ubyte.gz`  | training set labels  |60,000|28881 bytes | [Download](http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz)|
+| `t10k-images-idx3-ubyte.gz`  | test set images  | 10,000|1648877 bytes | [Download](http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz)|
+| `t10k-labels-idx1-ubyte.gz`  | test set labels  | 10,000| 4542 bytes | [Download](http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz)|
 
 The training set contains 60000 examples, and the test set 10000 examples.
 
