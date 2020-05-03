@@ -41,6 +41,8 @@ Python: https://www.python.org/downloads/
 
 Pycharm: https://www.jetbrains.com/pycharm/
 
+Anaconda: https://docs.anaconda.com/anaconda/install/hashes/win-3-64/
+
 ## Instruction 
 
 Step 2: Create your project by Pycharm with Conda environment. 
