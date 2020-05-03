@@ -20,6 +20,7 @@ In this project, i will use a convolutional neural network (CNN) for handwritten
 Accuracy persent was tested on training set 
 ![GitHub ACWithDataTraining](https://img.shields.io/badge/accuracy-99.65%25-blue)
 ![GitHub LSWithDataTraining](https://img.shields.io/badge/loss-0.0301-blue)
+
 Accuracy persent was tested on testing set 
 ![GitHub ACWithDataTesting](https://img.shields.io/badge/accuracy-98.71%25-blue)
 ![GitHub LSWithDataTesting](https://img.shields.io/badge/loss-0.1373-blue)
