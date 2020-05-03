@@ -46,7 +46,9 @@ Anaconda: https://docs.anaconda.com/anaconda/install/hashes/win-3-64/
 ## Instruction 
 
 <details><summary>Install Anaconda</summary><p>
-* [tmp](#tmp)
+* [After install Anaconda with *.ext, you can run this file]
+  [Pic]()
+* [Cham ba cham]
 </p></details><p></p>
 Step 2: Create your project by Pycharm with Conda environment. 
 
