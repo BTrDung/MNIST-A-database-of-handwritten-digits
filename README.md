@@ -77,6 +77,7 @@ Anaconda: https://docs.anaconda.com/anaconda/install/hashes/win-3-64/
 </p></details><p></p>
 
 <details><summary>Create project by Pycharm</summary><p>
+  
 * Open Pycharm.
  
  ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/1.png)
@@ -93,9 +94,16 @@ Anaconda: https://docs.anaconda.com/anaconda/install/hashes/win-3-64/
  
  ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/4.png)
  
+* Open your project folder and extract the ZIP file that you downloaded from github.
  
-Step 3: Copy all the files which contained in the ZIP file after extracted into your project local.
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/5.png)
+ 
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/6.png)
+ 
+ * Open Pycharm, you will see all files have been extracted.
 
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/7.png)
+ 
 Step 4: Open terminal, type ```pip install tensorflow``` and wait until it finishes downloading.
 
 Step 5: Run file ```test model.py``` by ```ctrl + shift + f10``` and see result.
