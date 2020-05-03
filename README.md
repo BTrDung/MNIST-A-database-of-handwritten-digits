@@ -104,6 +104,16 @@ Anaconda: https://docs.anaconda.com/anaconda/install/hashes/win-3-64/
 
  ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/7.png)
  
-Step 4: Open terminal, type ```pip install tensorflow``` and wait until it finishes downloading.
+ * Open terminal, type ```pip install tensorflow``` and wait until it finishes downloading.
 
-Step 5: Run file ```test model.py``` by ```ctrl + shift + f10``` and see result.
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/8.png)
+ 
+ If you see this line, you had install success tensorflow library.
+ 
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/9.PNG)
+
+* Open ```test model.py``` and press ```ctrl + shift + f10``` to run and see result.
+
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/10.png)
+</p></details><p></p>
+
