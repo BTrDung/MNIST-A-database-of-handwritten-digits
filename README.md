@@ -63,6 +63,13 @@ Anaconda: https://docs.anaconda.com/anaconda/install/hashes/win-3-64/
 
  ![alt text](https://github.com/BTrDung/Complex/blob/master/InsAnaconda/4.png)
  
+* Press ```Install```.
+
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/InsAnaconda/5.png)
+ 
+* Wait until it finish.
+ 
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/InsAnaconda/6.png)
  
 </p></details><p></p>
 Step 2: Create your project by Pycharm with Conda environment. 
