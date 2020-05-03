@@ -42,3 +42,4 @@ Step 3: Copy all the files which contained in the ZIP file after extracted into 
 
 Step 4: Open terminal, type ```pip install tensorflow``` and wait until it finishes downloading.
 
+Step 5: Run file ```test model.py``` by ```ctrl + shift + f10``` and see result.
