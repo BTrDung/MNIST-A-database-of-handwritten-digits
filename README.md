@@ -34,10 +34,10 @@ Pycharm: https://www.jetbrains.com/pycharm/
 
 ## Installation
 
-```bash
-git clone : https://github.com/BTrDung/MNIST
-```
+Clone/ download my git: https://www.anaconda.com/
+
 Open folder ```.vscode -> tasks.json ```. 
+
 Copy your Python.exe location (where you have installed Python) and paste to Line 12.
 
 Example: My Python location is ```C:\Users\ABC\AppData\Local\Programs\Python\Python38\python.exe```. Copy link location and paste into
