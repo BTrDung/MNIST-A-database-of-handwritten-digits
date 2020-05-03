@@ -4,13 +4,18 @@
 MNIST is a database of handwritten digits available on http://yann.lecun.com/exdb/mnist. The digits have been size-normalized and centered in a fixed-size image.
 
 There are 4 files:
-```bash
+```
 train-images-idx3-ubyte: training set images
 train-labels-idx1-ubyte: training set labels
 t10k-images-idx3-ubyte:  test set images
 t10k-labels-idx1-ubyte:  test set labels
 ```
 The training set contains 60000 examples, and the test set 10000 examples.
+
+
+Although the dataset is effectively solved, it can be used as the basis for learning and practicing how to develop, evaluate, and use convolutional deep learning neural networks for image classification from scratch. This includes how to develop a robust test harness for estimating the performance of the model, how to explore improvements to the model, and how to save the model and later load it to make predictions on new data.
+
+In this tutorial, you will discover how to develop a convolutional neural network for handwritten digit classification from scratch.
 
 Read more about MNIST on Wikipedia: https://en.wikipedia.org/wiki/MNIST_database.
 
