@@ -67,13 +67,33 @@ Anaconda: https://docs.anaconda.com/anaconda/install/hashes/win-3-64/
 
  ![alt text](https://github.com/BTrDung/Complex/blob/master/InsAnaconda/5.png)
  
-* Wait until it finish.
+* Wait until it finishes.
  
  ![alt text](https://github.com/BTrDung/Complex/blob/master/InsAnaconda/6.png)
  
+* Now, you done!. Press ```Next```.
+ 
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/InsAnaconda/7.png)
 </p></details><p></p>
-Step 2: Create your project by Pycharm with Conda environment. 
 
+<details><summary>Create project by Pycharm</summary><p>
+* Open Pycharm.
+ 
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/1.png)
+
+* Create new project, ```File``` - ```New project...```.
+ 
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/2.png)
+ 
+* Create your project and choose ```New environmet using``` is Conda. 
+ 
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/3.png)
+
+* After create your project, press ```ctrl + alt + s``` to see Project Interpreter. 
+ 
+ ![alt text](https://github.com/BTrDung/Complex/blob/master/CreProjMNIST/4.png)
+ 
+ 
 Step 3: Copy all the files which contained in the ZIP file after extracted into your project local.
 
 Step 4: Open terminal, type ```pip install tensorflow``` and wait until it finishes downloading.
