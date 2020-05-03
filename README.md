@@ -24,16 +24,14 @@ Read more about MNIST on Wikipedia: https://en.wikipedia.org/wiki/MNIST_database
 
 Use Python 3. 
 
-This project used Python version 3.8.2
-
-Use Pycharm with Anaconda environment to run. 
+This project used Python version 3.8.2 and Pycharm with Anaconda environment to run. 
 
 You can download Python and Pycharm by following links: 
-```
+
 Python: https://www.python.org/downloads/
+
 Pycharm: https://www.jetbrains.com/pycharm/
-Anaconda: 
-```
+
 ## Installation
 
 ```bash
