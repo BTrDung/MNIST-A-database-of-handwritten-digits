@@ -16,7 +16,7 @@ In this project, i will use a convolutional neural network for handwritten digit
 
 Accuracy persent was tested on training set ![GitHub ACWithDataTraining](https://img.shields.io/badge/accuracy-99.65%25-blue)
 
-Accuracy persent was tested on testing set![GitHub ACWithDataTesting](https://img.shields.io/badge/accuracy-98.71%25-blue)
+Accuracy persent was tested on testing set ![GitHub ACWithDataTesting](https://img.shields.io/badge/accuracy-98.71%25-blue)
 
 Read more about MNIST on Wikipedia: https://en.wikipedia.org/wiki/MNIST_database.
 
