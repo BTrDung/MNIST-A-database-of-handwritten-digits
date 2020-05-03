@@ -4,12 +4,15 @@
 MNIST is a database of handwritten digits available on http://yann.lecun.com/exdb/mnist. The digits have been size-normalized and centered in a fixed-size image.
 
 There are 4 files:
-```
-train-images-idx3-ubyte: training set images
-train-labels-idx1-ubyte: training set labels
-t10k-images-idx3-ubyte:  test set images
-t10k-labels-idx1-ubyte:  test set labels
-```
+You can use direct links to download the dataset. The data is stored in the **same** format as the original [MNIST data](http://yann.lecun.com/exdb/mnist/).
+
+| Name  | Content | Examples | Size | Link |
+| --- | --- |--- | --- |--- |
+| `train-images-idx3-ubyte.gz`  | training set images  | 60,000|26 MBytes | [Download](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-images-idx3-ubyte.gz)|
+| `train-labels-idx1-ubyte.gz`  | training set labels  |60,000|29 KBytes | [Download](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/train-labels-idx1-ubyte.gz)|
+| `t10k-images-idx3-ubyte.gz`  | test set images  | 10,000|4.3 MBytes | [Download](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-images-idx3-ubyte.gz)|
+| `t10k-labels-idx1-ubyte.gz`  | test set labels  | 10,000| 5.1 KBytes | [Download](http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/t10k-labels-idx1-ubyte.gz)|
+
 The training set contains 60000 examples, and the test set 10000 examples.
 
 In this project, i will use a convolutional neural network for handwritten digit classification from scratch.
