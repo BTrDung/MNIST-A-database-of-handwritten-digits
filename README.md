@@ -38,5 +38,7 @@ Step 1: Download my [git](https://github.com/BTrDung/MNIST.git) as a ZIP file: h
 
 Step 2: Create your project by Pycharm. 
 
-Step 3: Copy 
+Step 3: Copy all the files which contained in the ZIP file after extracted into your project local.
+
+Step 4: Open terminal and type ```pip install tensorflow```.
 
