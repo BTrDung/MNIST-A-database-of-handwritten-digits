@@ -33,17 +33,17 @@ Use Python 3.
 
 This project used Python version 3.7 and Pycharm with [Anaconda](https://www.anaconda.com/) environment to run. 
 
-You can download Python and Pycharm by following links: 
+## Installation
+
+Download my [git](https://github.com/BTrDung/MNIST.git) as a ZIP file: https://github.com/BTrDung/MNIST.git
 
 Python: https://www.python.org/downloads/
 
 Pycharm: https://www.jetbrains.com/pycharm/
 
-## Installation
+## Instruction 
 
-Step 1: Download my [git](https://github.com/BTrDung/MNIST.git) as a ZIP file: https://github.com/BTrDung/MNIST.git
-
-Step 2: Create your project by Pycharm. 
+Step 2: Create your project by Pycharm with Conda environment. 
 
 Step 3: Copy all the files which contained in the ZIP file after extracted into your project local.
 
