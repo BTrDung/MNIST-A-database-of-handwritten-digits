@@ -4,7 +4,7 @@
 MNIST is a database of handwritten digits available on http://yann.lecun.com/exdb/mnist. The digits have been size-normalized and centered in a fixed-size image.
 
 There are 4 files:
-You can use direct links to download the dataset. The data is stored in the **same** format as the original [MNIST data](http://yann.lecun.com/exdb/mnist/).
+You can use direct links to download the dataset.
 
 | Name  | Content | Examples | Size | Link |
 | --- | --- |--- | --- |--- |
