@@ -4,12 +4,10 @@ from count_category import count
 from wf import write_2D_to_file
 
 
-def fix_label(category, y):
-    n = len(y)
-    arr = []
-    for index in range(0, n):
-        arr.append(y[index] == category)
-    return arr
+def fix(cate, x, y):
+    img = x
+    lab = [(y[index] == cate) for index in range(0, len(y))]
+    return img, lab
 
 
 def train_model(train_images, train_labels):
@@ -19,10 +17,9 @@ def train_model(train_images, train_labels):
     for cate in range(0, 10):
         print('Training class ', cate)
         print('Fix label   -- ', end='')
-        y = fix_label(int(cate), train_labels)
-        x = train_images
+        x, y = fix(cate, train_images, train_labels)
         print('Done.')
         print('Train class -- ', end='')
-        weights[cate] = train_by_logistic(x, y, weights[cate], iter=1500, alpha=0.5)
+        weights[cate] = train_by_logistic(x, y, weights[cate], iter=2500, alpha=0.5)
 
     write_2D_to_file(weights)
