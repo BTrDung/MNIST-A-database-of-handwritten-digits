@@ -1,4 +1,4 @@
-# MNIST
+# MNIST - A database of handwritten digits 
 
 ## Introduction
 MNIST is a database of handwritten digits available on http://yann.lecun.com/exdb/mnist. The digits have been size-normalized and centered in a fixed-size image.
